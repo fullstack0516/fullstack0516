@@ -1,6 +1,6 @@
-## :dizzy: About Me
+# :dizzy: About Me
 
-- I’m interested in
+- I’m interested in:
   
   🔭 Machine Learning (Python, R)
 
@@ -32,6 +32,25 @@
 
   🔭 Generative AI
 
+🌱 I’m currently working on:
+
+  :weight_lifting: Natural Language Processing
+
+  :weight_lifting: Regression & Prediction Models
+
+  :weight_lifting: Database management
+
+  :weight_lifting: Time Series Analysis
+
+  :weight_lifting: Fraud/Anomaly Detection
+
+  :weight_lifting: Recommendation Systems
+
+  :weight_lifting: Computer Vision
+
+  :weight_lifting: PowerBI dashboards
+
+  :weight_lifting: Power Apps
 <!--
 **fullstack0516/fullstack0516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
